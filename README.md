@@ -1,13 +1,15 @@
 # Job-Summarizer-using-Gemini
 
-##Overview
-The Job Description Summarizer is a Streamlit-based web application that leverages Google’s Gemini-1.5-Flash model to generate structured summaries of job descriptions. It extracts crucial details such as responsibilities, required skills, and resume optimization tips, helping job seekers and recruiters efficiently analyze job postings.
+## Overview  
+The Job Description Summarizer is a Streamlit-based web application that leverages Google’s Gemini-1.5-Flash model to generate structured summaries of job descriptions.  
+It extracts crucial details such as responsibilities, required skills, and resume optimization tips, helping job seekers and recruiters efficiently analyze job postings.  
 
-##Features
-✅ AI-Powered Summarization – Uses Gemini-1.5-Flash for precise and structured job description summarization
-✅ Key Skill & Responsibility Extraction – Identifies essential skills, responsibilities, and industry-specific requirements
-✅ Resume Optimization Guidance – Provides personalized suggestions to enhance resumes based on job descriptions
-✅ User-Friendly Interface – Built with Streamlit, ensuring a simple and interactive experience
+## Features  
+✅ AI-Powered Summarization – Uses Gemini-1.5-Flash for precise and structured job description summarization  
+✅ Key Skill & Responsibility Extraction – Identifies essential skills, responsibilities, and industry-specific requirements  
+✅ Resume Optimization Guidance – Provides personalized suggestions to enhance resumes based on job descriptions  
+✅ User-Friendly Interface – Built with Streamlit, ensuring a simple and interactive experience  
+
 
 
 
